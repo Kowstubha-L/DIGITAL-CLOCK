@@ -1,2 +1,2 @@
 # DIGITAL-CLOCK
-it allows to see time using digital clock
+A digital clock built with HTML, CSS, and JavaScript provides a real-time display of the current time directly in a web browser. HTML structures the clock with a container element, while CSS styles it for visual appeal, centering it on the page and adjusting fonts and colors. JavaScript updates the time every second by fetching the current time and formatting it appropriately. The combination of these technologies creates a functional and attractive digital clock that updates seamlessly. This project demonstrates the integration of front-end technologies to build interactive web elements.
